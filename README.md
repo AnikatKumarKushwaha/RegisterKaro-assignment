@@ -2,6 +2,12 @@
 
 This project is a replica of the home screen design for RegisterKaro.in, developed using React, Vite, and Tailwind CSS. The goal of this project is to recreate the original design and make it fully responsive across different screen sizes.
 
+## Github & Vercel Link
+
+- [GitHub Link](https://github.com/AnikatKumarKushwaha/RegisterKaro-assignment)
+
+- [Vercel Link](https://register-karo-assignment-rosy.vercel.app/)
+
 ## Features
 
 - **Responsive Design**: The project is designed to work seamlessly across desktop, tablet, and mobile devices.
